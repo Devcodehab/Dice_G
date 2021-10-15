@@ -1,0 +1,32 @@
+body
+{
+  background: linear-gradient(to right,#3f5efb,#3f5e3f,#fc466b);
+}
+
+.container
+{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+h1
+{
+  font-size: 3rem;
+  font-family:'cambria', cursive;
+  color:'white'
+}
+
+p
+{
+  font-size: 2rem;
+  color: rgb(208,214,218);
+  font-family:'cambria', fantasy;
+}
+
+.dice{
+  margin: 0px 50px;
+  text-align:center;
+  display: inline-block;
+
+}
